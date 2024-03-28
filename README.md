@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on TSQL
 - 📫 How to reach me GitHub/wernerfouche
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I do Muay Thai for exercise and socialising.
+- ⚡ Fun fact: I do Muay Thai for exercise and socialising, build legos, read books, collect shoes and watches, ride motorbikes.
 
 <!---
 wernerfouche/wernerfouche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
