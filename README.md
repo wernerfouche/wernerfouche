@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wernerfouche
-- 👀 I’m interested in SQL
-- 🌱 I’m currently learning Azure Databases
+- 👀 I’m interested in SQL, and Data Engineering
+- 🌱 I’m currently learning Azure Databases and Data Engineering in Microsoft Azure
 - 💞️ I’m looking to collaborate on TSQL
 - 📫 How to reach me GitHub/wernerfouche
 - 😄 Pronouns: He/Him
