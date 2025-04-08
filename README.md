@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on TSQL and Azure Data Engineering
 - 📫 How to reach me GitHub/wernerfouche
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I do Muay Thai for exercise and socialising, build legos, read books, collect shoes and watches, ride motorbikes and love playing games on Xbox Series X.
+- ⚡ Fun fact: I do muaythai and golf for exercise and socialising, build legos, read books, collect shoes and watches, ride motorbikes and love playing games on Xbox Series X/PS5.
 
 <!---
 wernerfouche/wernerfouche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
