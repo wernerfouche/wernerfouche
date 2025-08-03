@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wernerfouche
-- 👀 I’m interested in SQL and Data Engineering
+- 👀 I’m interested in SQL and PostgreSQL
 - 🌱 I’m currently learning Azure Databases and Data Engineering in Microsoft Azure
 - 💞️ I’m looking to collaborate on TSQL and Azure Data Engineering
 - 📫 How to reach me GitHub/wernerfouche
